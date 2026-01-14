@@ -1,6 +1,6 @@
 <h1>Hii 👋 I'm Sahil Vijay Singh </h1>
 💫 About Me: 
-I'm currently a Third-year B.tech. in Computer Science at Sharda University.<br>I'm currently Learning React js.
+I'm currently a Third-year B.tech. in Computer Science at Sharda University.<br>I’m currently learning Express, Node.Js, AI/ML
 
 
 ## 🌐 Socials:

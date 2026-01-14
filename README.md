@@ -1,5 +1,5 @@
 <h1>Hii 👋 I'm Sahil Vijay Singh </h1>
-**A passionate Web Developer || C++ & DSA Enthusiast **
+<h3>A passionate Web Developer || C++ & DSA Enthusiast</h3>
 
 💫 About Me: 
 I'm currently a Third-year B.tech. in Computer Science at Sharda University.<br>I’m currently learning Express, Node.Js, AI/ML
@@ -24,5 +24,3 @@ I'm currently a Third-year B.tech. in Computer Science at Sharda University.<br>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=sahilvijaysingh28&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

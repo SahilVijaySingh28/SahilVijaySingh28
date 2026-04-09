@@ -2,7 +2,7 @@
 <h3>A passionate Web Developer || C++ & DSA Enthusiast</h3>
 
 💫 About Me: 
-I'm currently a Third-year B.tech. in Computer Science at Sharda University.<br>I’m currently learning Express, Node.Js, AI/ML
+I'm currently a Third-year B.tech. in Computer Science at Sharda University.<br>I’m currently learning new backend technologies, AI/ML.
 
 
 ## 🌐 Socials:
